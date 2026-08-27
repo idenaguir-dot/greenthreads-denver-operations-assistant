@@ -1,0 +1,97 @@
+PO_Number,SKU,Product_Name,Supplier,Supplier_Country,Destination_Store,Order_Date,Promised_Date,Actual_Receipt_Date,Status,Days_Late,Units,Unit_Cost,Line_Cost
+PO-4400,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Boise,2026-02-11,2026-04-12,2026-04-20,Received,8,400,26,10400
+PO-4401,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Spokane,2025-12-16,2026-01-15,2026-01-15,Received,0,600,46,27600
+PO-4402,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Portland-Division,2026-05-20,2026-07-24,,In transit,,600,30,18000
+PO-4403,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Tacoma,2026-01-05,2026-03-11,2026-03-24,Received,13,200,30,6000
+PO-4404,GT-TNK-06,Organic Tank Top,Delta Organics,India,Eugene,2026-06-13,2026-07-28,,In transit,,250,11,2750
+PO-4405,GT-POL-05,Performance Polo,Delta Organics,India,Tacoma,2026-03-21,2026-05-05,2026-05-05,Received,0,150,19.5,2925
+PO-4406,GT-POL-05,Performance Polo,Delta Organics,India,Spokane,2026-04-18,2026-06-02,2026-06-02,Received,0,500,19.5,9750
+PO-4407,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Seattle-Cap Hill,2026-03-30,2026-06-03,2026-06-14,Received,11,250,30,7500
+PO-4408,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Austin-South Congress,2026-03-28,2026-04-27,2026-04-28,Received,1,500,46,23000
+PO-4409,GT-SHT-02,Active Shorts,Mekong Textile Co.,Vietnam,Tacoma,2026-05-27,2026-07-26,,In transit,,500,22,11000
+PO-4410,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Salt Lake City,2026-02-06,2026-04-12,2026-04-25,Received,13,250,30,7500
+PO-4411,GT-TNK-06,Organic Tank Top,Delta Organics,India,Spokane,2025-12-26,2026-02-09,2026-02-10,Received,1,600,11,6600
+PO-4412,GT-SHT-02,Active Shorts,Mekong Textile Co.,Vietnam,Bend,2026-03-20,2026-05-19,2026-05-31,Received,12,400,22,8800
+PO-4413,GT-POL-05,Performance Polo,Delta Organics,India,Boulder,2026-05-23,2026-07-07,2026-07-07,Received,0,400,19.5,7800
+PO-4414,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Boise,2026-02-10,2026-04-16,2026-04-27,Received,11,150,30,4500
+PO-4415,GT-SHT-02,Active Shorts,Mekong Textile Co.,Vietnam,Boulder,2026-04-10,2026-06-09,2026-06-15,Received,6,300,22,6600
+PO-4416,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Tacoma,2026-04-06,2026-06-05,2026-06-10,Received,5,250,26,6500
+PO-4417,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Seattle-Ballard,2025-12-16,2026-02-19,2026-02-26,Received,7,200,30,6000
+PO-4418,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Seattle-Cap Hill,2026-01-07,2026-03-13,2026-04-01,Received,19,600,30,18000
+PO-4419,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Bend,2026-06-14,2026-08-18,,In transit,,250,30,7500
+PO-4420,GT-HOD-04,EcoFleece Hoodie,Andes Knitworks,Colombia,Boulder,2026-03-21,2026-04-20,2026-04-20,Received,0,400,38,15200
+PO-4421,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Seattle-Cap Hill,2026-06-05,2026-08-04,,In transit,,400,26,10400
+PO-4422,GT-SHT-02,Active Shorts,Mekong Textile Co.,Vietnam,Boise,2026-04-30,2026-06-29,2026-07-04,Received,5,400,22,8800
+PO-4423,GT-HOD-04,EcoFleece Hoodie,Andes Knitworks,Colombia,Boulder,2025-12-27,2026-01-26,2026-01-26,Received,0,250,38,9500
+PO-4424,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Spokane,2026-02-12,2026-03-14,2026-03-15,Received,1,200,46,9200
+PO-4425,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Bend,2026-01-13,2026-03-14,2026-03-20,Received,6,200,26,5200
+PO-4426,GT-HOD-04,EcoFleece Hoodie,Andes Knitworks,Colombia,Spokane,2026-04-30,2026-05-30,2026-05-31,Received,1,150,38,5700
+PO-4427,GT-HOD-04,EcoFleece Hoodie,Andes Knitworks,Colombia,Seattle-Cap Hill,2026-03-10,2026-04-09,2026-04-10,Received,1,200,38,7600
+PO-4428,GT-HOD-04,EcoFleece Hoodie,Andes Knitworks,Colombia,Tacoma,2026-02-28,2026-03-30,2026-03-31,Received,1,250,38,9500
+PO-4429,GT-POL-05,Performance Polo,Delta Organics,India,Portland-Pearl,2026-05-28,2026-07-12,2026-07-14,Received,2,400,19.5,7800
+PO-4430,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Seattle-Cap Hill,2026-01-10,2026-02-09,2026-02-09,Received,0,300,46,13800
+PO-4431,GT-TEE-01,Classic Tee,Delta Organics,India,Boise,2026-05-19,2026-07-03,2026-07-04,Received,1,500,14.25,7125
+PO-4432,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Portland-Division,2026-03-06,2026-05-10,2026-05-27,Received,17,500,30,15000
+PO-4433,GT-SHT-02,Active Shorts,Mekong Textile Co.,Vietnam,Austin-South Congress,2026-05-25,2026-07-24,,In transit,,200,22,4400
+PO-4434,GT-HOD-04,EcoFleece Hoodie,Andes Knitworks,Colombia,Eugene,2026-02-04,2026-03-06,2026-03-06,Received,0,250,38,9500
+PO-4435,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Eugene,2026-02-01,2026-04-07,2026-04-18,Received,11,400,30,12000
+PO-4436,GT-POL-05,Performance Polo,Delta Organics,India,Boise,2026-02-04,2026-03-21,2026-03-21,Received,0,250,19.5,4875
+PO-4437,GT-TEE-01,Classic Tee,Delta Organics,India,Austin-South Congress,2026-02-26,2026-04-12,2026-04-12,Received,0,250,14.25,3562.5
+PO-4438,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Spokane,2026-03-21,2026-05-20,2026-06-01,Received,12,250,26,6500
+PO-4439,GT-HOD-04,EcoFleece Hoodie,Andes Knitworks,Colombia,Portland-Pearl,2026-03-15,2026-04-14,2026-04-14,Received,0,500,38,19000
+PO-4440,GT-POL-05,Performance Polo,Delta Organics,India,Boise,2026-02-08,2026-03-25,2026-03-26,Received,1,500,19.5,9750
+PO-4441,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Portland-Pearl,2026-04-17,2026-05-17,2026-05-18,Received,1,500,46,23000
+PO-4442,GT-TEE-01,Classic Tee,Delta Organics,India,Spokane,2026-01-31,2026-03-17,2026-03-18,Received,1,400,14.25,5700
+PO-4443,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Seattle-Cap Hill,2026-03-21,2026-04-20,2026-04-21,Received,1,500,46,23000
+PO-4444,GT-SHT-02,Active Shorts,Mekong Textile Co.,Vietnam,Bend,2026-05-25,2026-07-24,,In transit,,200,22,4400
+PO-4445,GT-POL-05,Performance Polo,Delta Organics,India,Seattle-Ballard,2026-05-26,2026-07-10,2026-07-10,Received,0,500,19.5,9750
+PO-4446,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Bend,2026-05-03,2026-07-02,2026-07-06,Received,4,250,26,6500
+PO-4447,GT-POL-05,Performance Polo,Delta Organics,India,Spokane,2026-04-26,2026-06-10,2026-06-10,Received,0,150,19.5,2925
+PO-4448,GT-SHT-02,Active Shorts,Mekong Textile Co.,Vietnam,Eugene,2026-05-31,2026-07-30,,In transit,,150,22,3300
+PO-4449,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Bend,2025-12-20,2026-02-23,2026-03-06,Received,11,150,30,4500
+PO-4450,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Bend,2026-06-05,2026-07-05,2026-07-05,Received,0,250,46,11500
+PO-4451,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Tacoma,2026-02-24,2026-04-30,2026-05-10,Received,10,600,30,18000
+PO-4452,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Tacoma,2025-12-29,2026-02-27,2026-03-03,Received,4,600,26,15600
+PO-4453,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Bend,2026-04-12,2026-06-11,2026-06-14,Received,3,500,26,13000
+PO-4454,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Seattle-Cap Hill,2026-03-17,2026-05-21,2026-06-01,Received,11,150,30,4500
+PO-4455,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Seattle-Ballard,2026-06-12,2026-08-11,,In transit,,500,26,13000
+PO-4456,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Boise,2026-03-06,2026-04-05,2026-04-05,Received,0,600,46,27600
+PO-4457,GT-TNK-06,Organic Tank Top,Delta Organics,India,Spokane,2026-06-02,2026-07-17,,In transit,,300,11,3300
+PO-4458,GT-HOD-04,EcoFleece Hoodie,Andes Knitworks,Colombia,Austin-South Congress,2026-06-13,2026-07-13,2026-07-14,Received,1,150,38,5700
+PO-4459,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Austin-South Congress,2025-12-20,2026-01-19,2026-01-20,Received,1,300,46,13800
+PO-4460,GT-POL-05,Performance Polo,Delta Organics,India,Portland-Division,2026-03-22,2026-05-06,2026-05-07,Received,1,250,19.5,4875
+PO-4461,GT-POL-05,Performance Polo,Delta Organics,India,Austin-South Congress,2026-05-28,2026-07-12,2026-07-12,Received,0,400,19.5,7800
+PO-4462,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Boulder,2026-06-02,2026-08-01,,In transit,,400,26,10400
+PO-4463,GT-SHT-02,Active Shorts,Mekong Textile Co.,Vietnam,Seattle-Cap Hill,2026-04-17,2026-06-16,2026-06-25,Received,9,150,22,3300
+PO-4464,GT-POL-05,Performance Polo,Delta Organics,India,Tacoma,2026-04-19,2026-06-03,2026-06-03,Received,0,400,19.5,7800
+PO-4465,GT-TNK-06,Organic Tank Top,Delta Organics,India,Portland-Pearl,2026-03-18,2026-05-02,2026-05-03,Received,1,150,11,1650
+PO-4466,GT-SHT-02,Active Shorts,Mekong Textile Co.,Vietnam,Seattle-Cap Hill,2026-03-29,2026-05-28,2026-06-02,Received,5,200,22,4400
+PO-4467,GT-TEE-01,Classic Tee,Delta Organics,India,Seattle-Ballard,2026-05-21,2026-07-05,2026-07-05,Received,0,200,14.25,2850
+PO-4468,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Eugene,2026-04-19,2026-06-18,2026-06-24,Received,6,150,26,3900
+PO-4469,GT-TNK-06,Organic Tank Top,Delta Organics,India,Boulder,2026-03-16,2026-04-30,2026-05-02,Received,2,300,11,3300
+PO-4470,GT-POL-05,Performance Polo,Delta Organics,India,Tacoma,2026-05-31,2026-07-15,,In transit,,500,19.5,9750
+PO-4471,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Boise,2026-05-13,2026-07-12,,In transit,,500,26,13000
+PO-4472,GT-TNK-06,Organic Tank Top,Delta Organics,India,Salt Lake City,2026-01-13,2026-02-27,2026-02-28,Received,1,600,11,6600
+PO-4473,GT-HOD-04,EcoFleece Hoodie,Andes Knitworks,Colombia,Austin-South Congress,2026-02-26,2026-03-28,2026-03-29,Received,1,500,38,19000
+PO-4474,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Bend,2026-04-01,2026-05-31,2026-06-11,Received,11,150,26,3900
+PO-4475,GT-TEE-01,Classic Tee,Delta Organics,India,Spokane,2026-05-24,2026-07-08,2026-07-09,Received,1,200,14.25,2850
+PO-4476,GT-TNK-06,Organic Tank Top,Delta Organics,India,Seattle-Ballard,2025-12-16,2026-01-30,2026-01-30,Received,0,150,11,1650
+PO-4477,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Tacoma,2025-12-22,2026-02-25,2026-03-08,Received,11,250,30,7500
+PO-4478,GT-HOD-04,EcoFleece Hoodie,Andes Knitworks,Colombia,Portland-Division,2026-02-16,2026-03-18,2026-03-18,Received,0,600,38,22800
+PO-4479,GT-SHT-02,Active Shorts,Mekong Textile Co.,Vietnam,Bend,2026-04-20,2026-06-19,2026-06-24,Received,5,600,22,13200
+PO-4480,GT-POL-05,Performance Polo,Delta Organics,India,Seattle-Cap Hill,2026-04-21,2026-06-05,2026-06-07,Received,2,200,19.5,3900
+PO-4481,GT-SHT-02,Active Shorts,Mekong Textile Co.,Vietnam,Bend,2026-03-08,2026-05-07,2026-05-14,Received,7,400,22,8800
+PO-4482,GT-POL-05,Performance Polo,Delta Organics,India,Eugene,2026-05-22,2026-07-06,2026-07-07,Received,1,250,19.5,4875
+PO-4483,GT-TEE-01,Classic Tee,Delta Organics,India,Salt Lake City,2026-06-01,2026-07-16,,In transit,,150,14.25,2137.5
+PO-4484,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Bend,2025-12-18,2026-02-16,2026-02-26,Received,10,600,26,15600
+PO-4485,GT-TNK-06,Organic Tank Top,Delta Organics,India,Austin-South Congress,2026-02-19,2026-04-05,2026-04-07,Received,2,250,11,2750
+PO-4486,GT-CHN-07,Slim Chino,Mekong Textile Co.,Vietnam,Bend,2026-06-11,2026-08-10,,In transit,,150,26,3900
+PO-4487,GT-POL-05,Performance Polo,Delta Organics,India,Austin-South Congress,2025-12-25,2026-02-08,2026-02-09,Received,1,600,19.5,11700
+PO-4488,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Tacoma,2025-12-23,2026-01-22,2026-01-22,Received,0,150,46,6900
+PO-4489,GT-TEE-01,Classic Tee,Delta Organics,India,Tacoma,2025-12-29,2026-02-12,2026-02-14,Received,2,300,14.25,4275
+PO-4490,GT-TNK-06,Organic Tank Top,Delta Organics,India,Austin-South Congress,2026-04-06,2026-05-21,2026-05-21,Received,0,300,11,3300
+PO-4491,GT-JOG-03,Bamboo Joggers,Song Hong Apparel,Vietnam,Austin-South Congress,2026-05-08,2026-07-12,,In transit,,500,30,15000
+PO-4492,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Portland-Division,2025-12-30,2026-01-29,2026-01-30,Received,1,600,46,27600
+PO-4493,GT-TEE-01,Classic Tee,Delta Organics,India,Portland-Division,2026-01-06,2026-02-20,2026-02-21,Received,1,200,14.25,2850
+PO-4494,GT-JKT-08,Recycled Denim Jacket,Andes Knitworks,Colombia,Bend,2026-04-13,2026-05-13,2026-05-14,Received,1,500,46,23000
+PO-4495,GT-HOD-04,EcoFleece Hoodie,Andes Knitworks,Colombia,Bend,2026-04-18,2026-05-18,2026-05-18,Received,0,500,38,19000
